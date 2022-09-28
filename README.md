@@ -41,7 +41,7 @@
 - announcements
 - notifications
 
->  **Note that this documentation is not final.**
+>  **Note that this documentation is not final!**
 
  
 
