@@ -21,16 +21,16 @@
 - posting and viewing announcements 
 - Tracking all activities taking place in the system.
 
-## User title and responsibilities
-| Title | Responsibilities |
+##  User role and responsibilities
+| Role Title | Responsibilities |
 | :---: | :--- |
-| Teacher | 1. Add marks, View marks, Edit marks, check my activities |
-| Class-teacher | view graded performance for the whole class |
-| head of department | view graded performance in each class |
-| Dean of studies (DOS) | check all activities in the system, add a student into the system, view each class performance, view each subject performance |
-| Dean of student affairs (DOSA) | view each student performance |
-| head master  | Initialize staff registration into the system, add student into system, view all activities in the system, allocate and deallocate additional roles for teachers, block any teachers account including DOS and DOSA, lock any students account |
-
+| Teacher |  Add marks, View marks, Edit marks, check my activities. |
+| Class Teacher | View graded performance for the whole class. |
+| Head Of Department (HOD) | View graded performance in each class. |
+| Dean Of Studies (DOS) | Check all activities in the system, add a student into the system, view each class performance, view each subject performance. |
+| Dean Of Student Affairs (DOSA) | View each student performance |
+| Head Master (HM) | Initialize staff(users) registration into the system, add student into system, view all activities in the system, allocate and de-allocate additional roles for teachers, block any teacher's account including DOS and DOSA, lock any student's account. |
+> Please note that **teacher** is the default role and every user so far is a teacher.
 
 ## Tables (Relations)
 - users
