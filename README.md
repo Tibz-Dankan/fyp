@@ -22,9 +22,8 @@
 - Tracking all activities taking place in the system.
 
 ## User title and responsibilities
-> Table for this
 | Title | Responsibilities |
-| :==: | :==: |
+| :---: | :--- |
 | Teacher | 1. Add marks, View marks, Edit marks, check my activities |
 | Class-teacher | view graded performance for the whole class |
 | head of department | view graded performance in each class |
